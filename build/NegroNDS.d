@@ -1,0 +1,1 @@
+NegroNDS.o: NegroNDS.s

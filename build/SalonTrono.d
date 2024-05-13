@@ -1,0 +1,1 @@
+SalonTrono.o: SalonTrono.s

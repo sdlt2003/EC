@@ -1,0 +1,1 @@
+osads.o: osads.s

@@ -1,0 +1,1 @@
+IglesiaPriv.o: IglesiaPriv.s

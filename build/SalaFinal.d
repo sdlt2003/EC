@@ -1,0 +1,1 @@
+SalaFinal.o: SalaFinal.s

@@ -1,0 +1,1 @@
+SSSS.o: SSSS.s

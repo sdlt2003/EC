@@ -1,0 +1,1 @@
+PresentaDioses.o: PresentaDioses.s
